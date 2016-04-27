@@ -1,0 +1,6 @@
+name: APigPlugin
+author: Palkiadude
+version: 1.0
+api: [2.0.0]
+description: It adds pigs to Pocketmine. Simple.
+main: Palkie\Pee
