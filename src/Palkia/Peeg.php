@@ -1,3 +1,5 @@
+<?php
+
 namespace Palkia;
 
 use pocketmine\item\Item as ItemItem;
